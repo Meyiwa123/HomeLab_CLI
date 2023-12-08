@@ -1,0 +1,5 @@
+# Ignore Homelab configuration files
+/config/homelab_config.json
+
+# Ignore node_modules
+/node_modules

@@ -1,0 +1,23 @@
+{
+  "name": "homelab_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./bin/homelab.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "commander": "^11.1.0",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.12",
+    "proxmox": "^1.0.0"
+  }
+}
