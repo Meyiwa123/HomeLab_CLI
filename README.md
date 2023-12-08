@@ -1,4 +1,8 @@
 # HomeLab CLI
+
+<img src="img/sample_welcome.png"
+     alt="Sample Welcome"
+
 HomeLab CLI is a command-line interface (CLI) tool for managing and monitoring your home lab environment. It provides convenient commands for interacting with Proxmox and Portainer features.
 
 ## Table of Contents
